@@ -131,4 +131,4 @@ CREATE TABLE weather_data (
 
 Duplicate consecutive entries for the same city are automatically prevented in backend.
 
-
+https://github.com/Chebroluhemanthgithub/WeatherApp_Assignmnet/blob/40bc12ea7db39679ed984c26bd02f5c9413a4819/Weather.png
