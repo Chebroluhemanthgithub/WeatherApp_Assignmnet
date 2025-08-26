@@ -131,3 +131,7 @@ CREATE TABLE weather_data (
 
 Duplicate consecutive entries for the same city are automatically prevented in backend.
 
+## 🎥 Project Demo Video
+You can watch the demo video here: [View Demo](assets/demo-video.mp4)
+
+
